@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Landing Page</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="container">
+    <div class="text-content">
+      <h1 class="fade-slide">Transform Your Business</h1>
+      <p class="fade-slide delay-1">Build better solutions with our modern tools.</p>
+      <a href="#" class="cta-button fade-slide delay-2">Get Started</a>
+    </div>
+    <div class="image-content fade-slide delay-3">
+      <img src="hero-image.png" alt="Hero Image" />
+    </div>
+  </div>
+</body>
+</html>
